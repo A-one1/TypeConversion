@@ -18,7 +18,6 @@ int a,b,c;
 		System.out.println("The numbers entered are: "+a+", "+b+", and "  + c);
 		System.out.println("The sum of the numbers is: " + sum );
 		System.out.println("The average of the numbers is: "+ average);
-
 		input.close();
 	}
 }
